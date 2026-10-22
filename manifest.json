@@ -1,0 +1,7 @@
+{
+    "name": "Fake Identity",
+    "description": "Troca nome, nome de exibicao e adiciona insignias localmente.",
+    "authors": [{ "name": "Venice" }],
+    "main": "index.js",
+    "vendetta": { "icon": "ic_badge_staff" }
+}
